@@ -1,6 +1,6 @@
 # Alex Merryman Resume/CV
 
-*email: [alexmerryman.myco@gmail.com](mailto:alexmerryman.myco@gmail.com)* | *website: [https://alexmerryman.github.io/myco.github.io/](https://alexmerryman.github.io/myco.github.io/)*
+*website: [https://alexmerryman.github.io/myco.github.io/](https://alexmerryman.github.io/myco.github.io/)*
 
 I am an amateur mycologist based in Colorado, USA. I am passionate about exploring, documenting, and preserving fungal biodiversity; education and outreach; community/citizen science; scientific communication; foraging and cooking; and mushroom photography.
 
