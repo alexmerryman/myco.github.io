@@ -1,4 +1,4 @@
-# alexmerryman-myco.github.io
+# myco.github.io
 
 # My Mycology Website
 
