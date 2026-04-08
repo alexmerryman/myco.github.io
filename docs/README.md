@@ -4,7 +4,7 @@
 
 [About Me](/about.md)
 
-[Resume/CV](/resume.md)
+[Resume/CV](/resume-cv.md)
 
 [My iNaturalist observations with DNA Sequencing](https://www.inaturalist.org/observations?place_id=any&user_id=alexmerryman&verifiable=any&field:DNA%20Barcode%20ITS=)
 
