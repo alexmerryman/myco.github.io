@@ -11,7 +11,7 @@ I am an amateur mycologist based in Colorado, USA. I am passionate about explori
 **KYGT Clear Creek Radio: *Upstream* program (*[Sprunger and Merryman, July 30, 2025](https://www.clearcreekradio.com/upstream)*)**
 - Guest speaker; discussed local mushrooms/fungi, foraging, and mycology.
 
-***[Foraging Mushrooms of the Rocky Mountains](https://www.globepequot.com/9781493073825/foraging-mushrooms-of-the-rocky-mountains/)* (2024)**
+***[Foraging Mushrooms of the Rocky Mountains](https://www.globepequot.com/9781493073825/foraging-mushrooms-of-the-rocky-mountains/)*** *(2024)*
 - Co-author, photo contributor.
 
 ## Volunteer Experience
